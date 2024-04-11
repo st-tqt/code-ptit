@@ -1,2 +1,2 @@
 # code-ptit
-code của tqt
+code của TQT
